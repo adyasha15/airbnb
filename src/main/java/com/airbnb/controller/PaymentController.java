@@ -5,5 +5,6 @@ public class PaymentController {
 
     public PaymentController(String paymentType) {
         this.paymentType = paymentType;
+
     }
 }
